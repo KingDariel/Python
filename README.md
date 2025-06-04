@@ -1,1 +1,2 @@
-# Nutritionix API Guide
+# Nutritionix API Guide.
+
